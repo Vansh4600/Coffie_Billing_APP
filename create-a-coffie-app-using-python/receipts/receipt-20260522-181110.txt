@@ -1,0 +1,14 @@
+Brew Desk Coffee
+Customer: vansh
+Pickup: 10 minutes
+Date: 22 May 2026, 06:11 PM
+
+Order
+-----
+8 x Large Latte (Skim milk) - Rs. 1,840
+
+Subtotal: Rs. 1,840
+Tax: Rs. 92
+Total: Rs. 1,932
+
+Thank you for your order!
